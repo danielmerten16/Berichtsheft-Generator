@@ -1,0 +1,9 @@
+[package]
+name = "main"
+version = "0.0.2"
+edition = "2024"
+
+[dependencies]
+winit = "=0.27.5"
+softbuffer = "0.4"
+tiny-skia = "0.11"
